@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "FahadUsman",
   nickname: "QA Engineer",
   subTitle:
-    "Software Quality Assurance Engineer with 2 years of hands-on experience in web and mobile testing. Skilled in manual testing, Playwright, Appium, API validation, SQL, and Agile delivery with a proven 35% improvement in test coverage.",
+    "Software Quality Assurance Engineer with 2 years of hands-on experience in manual and automated testing for web and mobile apps. Experienced in AI, social media, e-commerce, blockchain, entertainment, productivity, education, and AdSense-enabled Play Store apps with a proven 35% test coverage improvement.",
   resumeLink: "/FAHAD_USMAN_CV.pdf",
   portfolio_repository: "https://github.com/fahadosman",
   githubProfile: "https://github.com/fahadosman",
@@ -59,6 +59,7 @@ const skills = {
         "⚡ Designing test strategies for enterprise and custom software with measurable quality outcomes",
         "⚡ Performing functional, regression, UAT, exploratory, and cross-platform compatibility testing",
         "⚡ Validating SPAs and mobile apps with a strong focus on reliability, scalability, and user-centric quality",
+        "⚡ Applying Page Object Model (POM) and Data-Driven Testing practices for maintainable automation",
       ],
       softwareSkills: [
         {
@@ -105,6 +106,7 @@ const skills = {
         "⚡ Writing and reviewing test logic using TypeScript, JavaScript, SQL, HTML, and CSS",
         "⚡ Testing API contracts and backend workflows using Swagger and Postman collections",
         "⚡ Executing data validation and defect triage workflows with clear root-cause notes",
+        "⚡ Working with MySQL and Oracle for test data setup and backend verification",
       ],
       softwareSkills: [
         {
@@ -159,6 +161,7 @@ const skills = {
         "⚡ Managing test cases, defect lifecycle, and sprint quality metrics in Agile teams",
         "⚡ Collaborating with iOS, Android, Flutter, backend, and web teams for stable production releases",
         "⚡ Maintaining traceable QA documentation and release sign-off checklists",
+        "⚡ Using Jira, GitHub, Slack, Zoho, Huly, Bordio, Trello, ClickUp, TestRail, and Google Sheets for delivery alignment",
       ],
       softwareSkills: [
         {
@@ -208,6 +211,20 @@ const skills = {
           fontAwesomeClassname: "simple-icons:zoho",
           style: {
             color: "#E42527",
+          },
+        },
+        {
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: {
+            color: "#4479A1",
+          },
+        },
+        {
+          skillName: "Oracle DB",
+          fontAwesomeClassname: "simple-icons:oracle",
+          style: {
+            color: "#F80000",
           },
         },
       ],
@@ -344,7 +361,7 @@ const experience = {
   title: "Experience",
   subtitle: "Software Quality Assurance",
   description:
-    "I work on end-to-end quality assurance for web and mobile products, combining manual and automated testing to improve confidence in every release. My test strategy helped improve test coverage by 35% while strengthening release stability.",
+    "I work on end-to-end quality assurance for web and mobile products, combining manual and automated testing to improve confidence in every release. I actively contribute in Agile teams and improved test coverage by 35% while strengthening release stability.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -359,7 +376,7 @@ const experience = {
           duration: "September 2025 - Present",
           location: "Islamabad, Pakistan",
           description:
-            "Leading end-to-end testing for AI websites and mobile apps (Android and iOS). Covering functional, regression, UAT, and API validation with Postman and Playwright. Tested products including Bolt VPN, File Manager, Calculator Vault, AI chatbots, CRM systems, and e-commerce platforms such as WooCommerce and StoreFeeder while collaborating with iOS, backend, and native app teams to release stable products.",
+            "Led end-to-end QA for AI websites and mobile apps (Android and iOS), including functional, regression, UAT, API, and compatibility testing. Validated products such as Bolt VPN, File Manager, Calculator Vault, TV Remote, AI tools, AI chatbots, ChatOSHI AI, CRM workflows, crypto-based platforms, and e-commerce solutions (WooCommerce, StoreFeeder). Built and maintained test plans/test cases and collaborated with iOS, backend, and native teams for stable user-focused releases.",
           color: "#181717",
         },
         {
@@ -370,7 +387,7 @@ const experience = {
           duration: "October 2024 - August 2025",
           location: "Islamabad, Pakistan",
           description:
-            "Validated LMS Android (native) and iOS applications through detailed test planning and execution. Built end-to-end test scenarios, documented workflows, performed API testing with Postman, and automated regression paths with Playwright while managing defects in Jira and GitHub. Also provided technical support for LMS user issues and contributed continuously to Agile quality improvements.",
+            "Ensured quality, performance, and reliability of LMS Android (native) and iOS apps through complete test planning and execution. Created end-to-end scenarios, workflow documentation, API tests with Postman, and Playwright automation for key flows. Managed defects in Jira/GitHub/Slack, resolved technical issues with backend/Flutter/native teams, supported LMS users, and contributed to continuous Agile process improvements.",
           color: "#0A66C2",
         },
       ],
@@ -382,7 +399,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects & QA Highlights",
   description:
-    "Quality engineering work focused on AI tools, mobile utilities, and enterprise products. I have tested applications including Bolt VPN, File Manager, Calculator Vault, AI tools/chatbots, CRM solutions, LMS platforms, and e-commerce systems such as WooCommerce and StoreFeeder.",
+    "Quality engineering work focused on AI tools, mobile utilities, and enterprise products across social media, e-commerce, blockchain, entertainment, productivity, and education domains. Tested apps include Bolt VPN, File Manager, Calculator Vault, TV Remote, AI tools/chatbots, ChatOSHI AI, CRM systems, LMS platforms, and platforms like WooCommerce/StoreFeeder.",
   avatar_image_path: "projects_image.svg",
 };
 
